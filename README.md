@@ -1,3 +1,6 @@
+
+![Foiling A-Class Catamaran tuning tips](banner.jpg)
+
 []: # Title: Foiling A-class catamaran tuning tips
 
 
